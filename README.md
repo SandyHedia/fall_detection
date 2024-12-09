@@ -23,7 +23,7 @@ The Fall Detection Project is designed to identify and alert users when a fall i
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone SandyHedia/fall_detection
    cd fall-detection-project
    ```
 
